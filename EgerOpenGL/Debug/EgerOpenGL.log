@@ -1,9 +1,5 @@
 ﻿  main.cpp
 D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\Window.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
 D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\Window.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
-D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(140,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(167,35): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
-D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(167,10): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
-D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(166,47): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
-D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(166,22): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+D:\Egerous\EgerVS\EgerOpenGL\EgerOpenGL\main.cpp(175,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
   EgerOpenGL.vcxproj -> D:\Egerous\EgerVS\EgerOpenGL\Debug\EgerOpenGL.exe
